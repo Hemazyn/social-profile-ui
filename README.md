@@ -21,8 +21,8 @@ This Social-Profile code component is designed to be easily integrated into your
 
 ### Links
 
-- Solution URL: [Github repository](https://github.com/Hemazyn/qr-code-ui)
-- Live Site URL: [Netlify Link](https://qr-ui.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/social-profile-ui)
+- Live Site URL: [Netlify Link](https://hemazyn-profile-ui.netlify.app/)
 
 ## My process
 
