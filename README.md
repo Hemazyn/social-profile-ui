@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Social Link Profile code component solution
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 This Social-Profile code component is designed to be easily integrated into your React projects, providing a visually appealing way to display socila-profiles design. The component is responsive and customizable, making it suitable for various projects.
 ## Table of contents
@@ -53,7 +53,7 @@ Throughout the development of this project, I gained valuable insights into buil
 
 #### Integration of External Fonts:
 
-- Integrated the 'Outfit','Young Serif' font from Google Fonts to enhance the typography of the project.
+- Integrated the 'Inter', font from Google Fonts to enhance the typography of the project.
 - Configured the Tailwind CSS theme to include the custom font in the styling.
 
 #### Project Structure and Tooling:
